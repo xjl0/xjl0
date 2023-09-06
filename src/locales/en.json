@@ -1,0 +1,92 @@
+{
+  "personal": {
+    "name": "Andrei Volzhin",
+    "mainJob": "Full Stack developer",
+    "secondJob": "Backend developer",
+    "summary": "I am a versatile and experienced software developer with a strong background in multiple programming languages and technologies. My expertise lies in Go/Golang, PHP, JavaScript, and ReactJS, and I have a proven track record of creating successful web applications and services. I have honed my skills through various projects, including website development, CRM system design, real-time communication integration, and chatbot development. With a focus on innovation and problem-solving, I am well-equipped to tackle complex challenges in the world of software development.",
+    "skills": [
+      {
+        "skill": "Languages",
+        "description": "Proficient in Go/Golang, PHP, JavaScript"
+      },
+      {
+        "skill": "Frontend Development",
+        "description": "Extensive experience in building interactive and user-friendly web interfaces using ReactJS."
+      },
+      {
+        "skill": "Backend Development",
+        "description": "Expertise in developing high-performance backend systems, including the migration of a complex CRM project from PHP to GoLang."
+      },
+      {
+        "skill": "Real-Time Communication",
+        "description": "Skilled in integrating SIP (Session Initiation Protocol) into web applications using JSSIP, with in-depth knowledge of Asterisk (FreePBX) server for VoIP solutions."
+      },
+      {
+        "skill": "Bot Development",
+        "description": "Familiar with creating Telegram and Discord bots, demonstrating the ability to automate processes and interact with external APIs."
+      }
+    ],
+    "languages": [
+      {
+        "language": "English",
+        "level": "Limited working proficiency",
+        "lng": "en"
+      },
+      {
+        "language": "Russian",
+        "level": "Native",
+        "lng": "ru"
+      },
+      {
+        "language": "Japanese",
+        "level": "Elementary proficiency",
+        "lng": "jp"
+      }
+    ],
+    "experience": [
+      {
+        "exp": "Web Developer",
+        "descriptions": [
+          "Successfully developed and launched numerous websites, showcasing a keen eye for design and functionality.",
+          "Collaborated with cross-functional teams to ensure seamless integration of frontend and backend components.",
+          "Led the migration of an internal CRM system from PHP to GoLang, resulting in improved performance, scalability, and maintainability.",
+          "Acted as a frontend helper, contributing to the development of a ReactJS library for efficient UI component reuse."
+        ]
+      },
+      {
+        "exp": "Real-Time Communication Specialist",
+        "descriptions": [
+          "Designed and implemented real-time communication features by integrating SIP into web applications using JSSIP, enhancing user engagement and interactivity.",
+          "Utilized Asterisk (FreePBX) server expertise to establish reliable VoIP solutions, contributing to the success of the project."
+        ]
+      },
+      {
+        "exp": "Bot Developer",
+        "descriptions": [
+          "Created and maintained Telegram and Discord bots, automating tasks, and enhancing user experiences.",
+          "Implemented custom features and integrations with external services to meet project-specific requirements."
+        ]
+      }
+    ],
+    "achievements": [
+      "Active contributor to open-source projects related to GoLang and ReactJS, demonstrating a commitment to the developer community.",
+      "Regularly participate in tech meetups, conferences, and online forums to stay updated with the latest trends and innovations in software development.",
+      "Committed to continuous learning and professional growth, with a passion for exploring emerging technologies."
+    ],
+    "conclusion": "As a software developer with a diverse skill set and a track record of successfully delivering projects, I am well-equipped to take on challenging roles in web development, real-time communication, and bot development. My commitment to innovation, adaptability, and ongoing self-improvement makes me a valuable asset in any software development team or project.",
+    "education": [
+      "South Ural State University. National Research University. Faculty of Applied Mathematics and Informatics.",
+      "Refresher courses in Golang",
+      "Refresher courses in Asterisk"
+    ]
+  },
+  "application": {
+    "languages": "Languages",
+    "summary": "Professional Summary",
+    "skills": "Technical Skills",
+    "experience": "Professional Experience",
+    "achievements": "Additional Achievements",
+    "conclusion": "Conclusion",
+    "education": "Education Details"
+  }
+}
