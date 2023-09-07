@@ -1,3 +1,4 @@
+[My CV](https://xjl0.github.io/xjl0/)
 ### My technology stack
 
 ![Golang](https://img.shields.io/badge/Golang-3+-2980B9?style=flat&logo=go) ![PHP](https://img.shields.io/badge/PHP-6+-2980B9?style=flat&logo=PHP) ![React](https://img.shields.io/badge/React-2+-2980B9?style=flat&logo=React)
