@@ -2,6 +2,7 @@ import React from 'react';
 import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
+import Card from 'react-bootstrap/Card';
 import Languages from "../../components/languages/Languages";
 import Photo from "../../components/photo/Photo";
 import Summary from "../../components/summary/Summary";
@@ -65,7 +66,17 @@ const Resume = () => {
                     </Row>
                 </Col>
             </Row>
-
+            <Row>
+                <Col>
+                    <Card>
+                        <Card.Body>
+                            <Card.Text>
+                                <span>Create React App by: Me</span>
+                            </Card.Text>
+                        </Card.Body>
+                    </Card>
+                </Col>
+            </Row>
         </Container>
     );
 };

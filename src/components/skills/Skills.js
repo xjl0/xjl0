@@ -58,11 +58,12 @@ const Skills = () => {
                 </ListGroup>
             </Card.Body>
             <Card.Footer>
-                <ProgressBar now={94} label={`Golang & PHP`} className={`my-2`} striped/>
-                <ProgressBar now={93} label={`JavaScrypt & JQuery`} className={`my-2`} striped/>
-                <ProgressBar now={89} label={`PostgreSQL & MySQL & MariaDB`} className={`my-2`} striped/>
+                <ProgressBar now={93} label={`Golang & PHP`} className={`my-2`} striped/>
+                <ProgressBar now={92} label={`JavaScrypt & JQuery`} className={`my-2`} striped/>
+                <ProgressBar now={88} label={`PostgreSQL & MySQL & MariaDB`} className={`my-2`} striped/>
                 <ProgressBar now={83} label={`ReactJS & TS`} className={`my-2`} striped/>
                 <ProgressBar now={82} label={`HTML5 & CSS`} className={`my-2`} striped/>
+                <ProgressBar now={81} label={`DevOps & Deployment`} className={`my-2`} striped/>
             </Card.Footer>
         </Card>
     )
