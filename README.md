@@ -33,6 +33,7 @@
     <img alt="" src="https://img.shields.io/badge/Git-2C3E50?style=flat&logo=Git">
     <img alt="" src="https://img.shields.io/badge/GitHub-2C3E50?style=flat&logo=GitHub">
     <img alt="" src="https://img.shields.io/badge/Docker-2C3E50?style=flat&logo=Docker">
+    <img alt="" src="https://img.shields.io/badge/Portainer-2C3E50?style=flat&logo=Portainer">
     <img alt="" src="https://img.shields.io/badge/npm-2C3E50?style=flat&logo=npm">
     <img alt="" src="https://img.shields.io/badge/NGINX-2C3E50?style=flat&logo=NGINX">
     <img alt="" src="https://img.shields.io/badge/Apache-2C3E50?style=flat&logo=Apache">
