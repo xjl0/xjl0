@@ -21,6 +21,7 @@
     <img alt="" src="https://img.shields.io/badge/PostgreSQL-2C3E50?style=flat&logo=PostgreSQL">
     <img alt="" src="https://img.shields.io/badge/MySQL-2C3E50?style=flat&logo=MySQL">
     <img alt="" src="https://img.shields.io/badge/MariaDB-2C3E50?style=flat&logo=MariaDB">
+    <img alt="" src="https://img.shields.io/badge/Redis-2C3E50?style=flat&logo=Redis">
     <img alt="" src="https://img.shields.io/badge/phpMyAdmin-2C3E50?style=flat&logo=phpMyAdmin">
     <img alt="" src="https://img.shields.io/badge/HTML-2C3E50?style=flat&logo=HTML5">
     <img alt="" src="https://img.shields.io/badge/Javascript-2C3E50?style=flat&logo=Javascript">
