@@ -36,6 +36,7 @@
     <img alt="" src="https://img.shields.io/badge/Docker-2C3E50?style=flat&logo=Docker">
     <img alt="" src="https://img.shields.io/badge/Portainer-2C3E50?style=flat&logo=Portainer">
     <img alt="" src="https://img.shields.io/badge/npm-2C3E50?style=flat&logo=npm">
+    <img alt="" src="https://img.shields.io/badge/Caddy-2C3E50?style=flat&logo=Caddy">
     <img alt="" src="https://img.shields.io/badge/NGINX-2C3E50?style=flat&logo=NGINX">
     <img alt="" src="https://img.shields.io/badge/Apache-2C3E50?style=flat&logo=Apache">
     <img alt="" src="https://img.shields.io/badge/Apache%20Kafka-2C3E50?style=flat&logo=Apache+Kafka">
