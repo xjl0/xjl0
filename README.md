@@ -33,6 +33,7 @@ var me = Engineer{
 	Learning: []string{
 		"Rust",     // currently negotiating with the borrow checker
 		"日本語",    // 毎日少しずつ — a little every day
+		"GameDev",  // been running game servers for years, now building the game itself
 	},
 	KPI:        "zero incidents, zero 'it's slow' tickets",
 }
@@ -40,7 +41,7 @@ var me = Engineer{
 
 ### What I build
 
-- 🎮 **Game backends** — game engines and server-side logic, real-time state over WebSockets.
+- 🎮 **Game backends** — game engines and server-side logic, real-time state over WebSockets. Next level: the client side too.
 - 🎁 **Promo campaigns** — backends built for traffic spikes, when the whole audience shows up in the first hour.
 - ⚡ **Real-time** — WebSockets and [Centrifugo](https://centrifugal.dev) for live updates, chats and notifications.
 - 🤖 **Bots & Mini Apps** — Telegram and VK bots, Telegram Mini App backends.
@@ -109,6 +110,7 @@ var me = Engineer{
 <p>
   <img alt="Rust" src="https://img.shields.io/badge/Rust-🦀_in_progress-000000?style=flat-square&logo=rust&logoColor=white">
   <img alt="Japanese" src="https://img.shields.io/badge/日本語-🗾_勉強中-BC002D?style=flat-square">
+  <img alt="GameDev" src="https://img.shields.io/badge/GameDev-🎮_level_1-6E40C9?style=flat-square">
 </p>
 
 <details>
