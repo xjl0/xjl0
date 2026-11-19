@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Andrei Volzhin — Backend Engineer</title>
+    <meta
+      name="description"
+      content="Backend Engineer · 10+ years in production · 5+ years of Go. Game backends, promo campaigns, real-time, bots, telephony."
+    />
+    <meta property="og:title" content="Andrei Volzhin — Backend Engineer" />
+    <meta property="og:description" content="I build backends that survive launch day — and then stay boringly quiet." />
+    <meta property="og:type" content="profile" />
+    <link rel="icon" href="%BASE_URL%favicon.ico" sizes="any" />
+    <link rel="icon" type="image/png" sizes="32x32" href="%BASE_URL%favicon-32x32.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="%BASE_URL%favicon-16x16.png" />
+    <link rel="apple-touch-icon" href="%BASE_URL%apple-touch-icon.png" />
+    <script>
+      // Apply theme before first paint to avoid a flash.
+      ;(function () {
+        var t = null
+        try { t = localStorage.getItem('theme') } catch (e) {}
+        var dark = t ? t === 'dark' : window.matchMedia('(prefers-color-scheme: dark)').matches
+        if (dark) document.documentElement.classList.add('dark')
+      })()
+    </script>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>
