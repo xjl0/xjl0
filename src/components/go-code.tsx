@@ -46,7 +46,7 @@ export function GoCode({ code }: { code: string }) {
           me.go
         </span>
       </div>
-      <pre className="overflow-x-auto p-4 font-mono text-[12.5px] leading-relaxed [tab-size:4]">
+      <pre className="overflow-x-auto p-4 [scrollbar-width:none] [&::-webkit-scrollbar]:hiddenfont-mono text-[12.5px] leading-relaxed [tab-size:4]">
         <code>{highlight(code)}</code>
       </pre>
     </div>
